@@ -133,7 +133,8 @@ article#video .video-container {
     width: 100%;
     margin: auto;
     aspect-ratio: 16/9;
-    display: flex;
+   
+    
     
 }
 
